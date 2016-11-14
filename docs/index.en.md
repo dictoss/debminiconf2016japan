@@ -10,11 +10,10 @@ event_party_time: aa:aa-bb:bb
 
 ## Outline
    
-- datetime: {{ page.event_datetime }} (After the party will open)
-- place: [Cybozu, Inc.](http://cybozu.co.jp/company/info/)
-  - address: Tokyo Nihonbashi Tower, Nihonbashi 2-7-1 Chuo-ku, Tokyo, Japan
-- Registraion limit number of people
-  - In preparation...
+- Datetime: {{ page.event_datetime }} (After the party will open)
+- Venue: [Cybozu, Inc.](http://cybozu.co.jp/company/info/)
+  - Address: Tokyo Nihonbashi Tower, Nihonbashi 2-7-1 Chuo-ku, Tokyo, Japan
+- Number of registraion limit is under discussion.
 - Organizer: {{ page.organizer }}
 
 
@@ -22,22 +21,24 @@ event_party_time: aa:aa-bb:bb
 
 ## TimeTable
 
-detail schedule is planning. The event is opened 1-day only.
+Detailed schedule is still under planning. The event is 1-day only.
 
-Later to publish on website and SNS.
+Details will be published on this website.
 
 <a name="speaker"></a>
 
 ## Speaker
 
-The event CFP (Call for proposal) is open.
+CFP (Call for proposals) is closed, and the committee is evaluating the proposals. Confirmation email will be sent after Nov. 17th.
+~~The event CFP (Call for proposal) is open.~~
 
-If you want to entry, clock follow URL.
+~~If you want to apply, just click the following URL.~~
 
 - [Mini Debian Conference Japan 2016 Call for proposal](https://docs.google.com/forms/d/1gcHtLijX8WrdfQMrKK4gkWXOUVhOVV3HCJtcDWglsag/viewform?edit_requested=true)
 
-- Application period
-  - 2016-11-13 23:59:59+09:00
+- Deadline of CFP Application
+  - 2016-11-13 23:59:59 (UTC+9)
+
 - Please input infomation.
   - Title
   - Description
@@ -52,39 +53,39 @@ If you want to entry, clock follow URL.
 
 ## Registration
 
-Registration are talk session, PGP/GPG keysign party and dinner party.
+There're separated registration for talk session, PGP/GPG keysign party and dinner party.
 
 ### Notice
-- Talk session, PGP/GPG keysign party and dinner party should be each registration.
-- The meeting place cannot enter without a key. The key is send to the evnet registered e-mail address. You don't forget to register.
+- Talk session, PGP/GPG keysign party and dinner party should be registrated separately.
+- A code is needed in order to get into the venue. The code will be sent to the registered email address. So please don't forget to register.
 
-### Registration a Talk session
+### Registration for Talk session
 - [Mini Debian Conference Japan 2016](http://debianjp.connpass.com/event/44481/)
-  - no charge.
+  - Free of charge.
 - [LibreOffice Kaigi 2016.12(jointly hosted)](http://libojapan.connpass.com/event/42685/)
-  - no charge.
+  - Free of charge.
 
-### Registration a PGP/GPG keysign party
+### Registration for PGP/GPG keysign party
 - [About Keysign party](ksp.html)
 
-### Registration a dinner party
+### Registration for dinner party
 - [2016 LibreOfficeKaigi/MiniDebianConfJapan Party](http://connpass.com/event/44587/)
   - Jointly hosted by LibreOfficeKaigi and MiniDebianConfJapan.
   - Provide sushi, nabemono, beer and meals.
   - Provide soft drink.
   - We welcome to BYOB.
   - The charge as below.
-    - general 2,000 Yen.
-    - student 1,000 Yen.
+    - General 2,000 Yen.
+    - Student 1,000 Yen.
 
 <a name="place"></a>
 
-## Place
+## Venue
 
-- place: [Cybozu, Inc.](http://cybozu.co.jp/company/info/)
-  - address: Tokyo Nihonbashi Tower, Nihonbashi 2-7-1 Chuo-ku, Tokyo, Japan
+- Venue: [Cybozu, Inc.](http://cybozu.co.jp/company/info/)
+  - Address: Tokyo Nihonbashi Tower, Nihonbashi 2-7-1 Chuo-ku, Tokyo, Japan
 
-- Later to publish rules on website and SNS.
+- Will publish details later on website and social media.
 
 <a name="contactus"></a>
 
@@ -92,10 +93,10 @@ Registration are talk session, PGP/GPG keysign party and dinner party.
 
 Please contact us through the following channels.
 
-- email: debian-users AT debian.or.jp (replace AT to atmark)
-  - notice: This email address is public mailing list.
-- email: miniconf2016 AT debian.or.jp (replace AT to atmark)
-  - notice: This email address is closed mailing list for Organizer. If you are sensitive content please use this email address.
+- Email: debian-users AT debian.or.jp (replace AT with an at sign)
+  - Notice: This email address is public mailing list.
+- Email: miniconf2016 AT debian.or.jp (replace AT with an at sign)
+  - Notice: This email address is closed mailing list for Organizer. If you are sensitive content please use this email address.
 - <a href="https://twitter.com/debian_jp"><img style="width:20px; height:20px;" src="assets/img/Twitter_Logo_White_On_Blue.png" alt="Twitter - Debian JP">@debian_jp</a>
 
 
@@ -103,6 +104,9 @@ Please contact us through the following channels.
 
 ## History
 
+- 2016-11-14
+  - CFP is closed.
+  - Fix typos.
 - 2016-11-11
   - update Registration.
   - start Registration.

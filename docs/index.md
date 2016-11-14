@@ -29,11 +29,12 @@ event_party_time: aa:aa-bb:bb
 
 ## 発表者
 
-発表者について募集中です。
+募集は締め切りまして、今選定中です。11月17日から順次メールでご連絡させていただきます。
+~~発表者について募集中です。~~
 
-CFP(Call for proposal)の応募は下記URLからお願いします。たくさんのご応募をお待ちしております。
+~~CFP(Call for proposal)の応募は下記URLからお願いします。たくさんのご応募をお待ちしております。~~
 
-- [Mini Deban Conference Japan 2016 Call for proposal](https://docs.google.com/forms/d/1gcHtLijX8WrdfQMrKK4gkWXOUVhOVV3HCJtcDWglsag/viewform?edit_requested=true)
+- [Mini Debian Conference Japan 2016 Call for proposal](https://docs.google.com/forms/d/1gcHtLijX8WrdfQMrKK4gkWXOUVhOVV3HCJtcDWglsag/viewform?edit_requested=true)
 
 - 応募期限
   - 2016年11月13日 23:59:59 (JST)
@@ -103,6 +104,9 @@ CFP(Call for proposal)の応募は下記URLからお願いします。たくさ�
 
 ## 更新履歴
 
+- 2016-11-14
+  - CFP応募の終了案内を追加しました。
+  - 少し修正しました。
 - 2016-11-11
   - 参加申し込みを更新しました。
   - 参加申し込みを開始いたしました。
