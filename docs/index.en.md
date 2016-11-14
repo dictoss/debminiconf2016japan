@@ -30,9 +30,9 @@ Details will be published on this website.
 ## Speaker
 
 CFP (Call for proposals) is closed, and the committee is evaluating the proposals. Confirmation email will be sent after Nov. 17th.
-~~The event CFP (Call for proposal) is open.~~
+<del>The event CFP (Call for proposal) is open.</del>
 
-~~If you want to apply, just click the following URL.~~
+<del>If you want to apply, just click the following URL.</del>
 
 - [Mini Debian Conference Japan 2016 Call for proposal](https://docs.google.com/forms/d/1gcHtLijX8WrdfQMrKK4gkWXOUVhOVV3HCJtcDWglsag/viewform?edit_requested=true)
 
@@ -107,6 +107,7 @@ Please contact us through the following channels.
 - 2016-11-14
   - CFP is closed.
   - Fix typos.
+  - add KSP Registration Button.
 - 2016-11-11
   - update Registration.
   - start Registration.
