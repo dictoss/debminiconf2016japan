@@ -37,7 +37,7 @@ If you want to entry, clock follow URL.
 - [Mini Debian Conference Japan 2016 Call for proposal](https://docs.google.com/forms/d/1gcHtLijX8WrdfQMrKK4gkWXOUVhOVV3HCJtcDWglsag/viewform?edit_requested=true)
 
 - Application period
-  - 2016-11-06 23:59:59+09:00
+  - 2016-11-13 23:59:59+09:00
 - Please input infomation.
   - Title
   - Description
@@ -52,14 +52,30 @@ If you want to entry, clock follow URL.
 
 ## Registration
 
-In preparation... Later to publish on website and SNS.
+Registration are talk session, PGP/GPG keysign party and dinner party.
 
-- Registration separateness sessions and a party.
+### Notice
+- Talk session, PGP/GPG keysign party and dinner party should be each registration.
+- The meeting place cannot enter without a key. The key is send to the evnet registered e-mail address. You don't forget to register.
 
-- Participation fees
-  - No pay sessions.
-  - Some pay party.
+### Registration a Talk session
+- [Mini Debian Conference Japan 2016](http://debianjp.connpass.com/event/44481/)
+  - no charge.
+- [LibreOffice Kaigi 2016.12(jointly hosted)](http://libojapan.connpass.com/event/42685/)
+  - no charge.
 
+### Registration a PGP/GPG keysign party
+- [About Keysign party](ksp.html)
+
+### Registration a dinner party
+- [2016 LibreOfficeKaigi/MiniDebianConfJapan Party](http://connpass.com/event/44587/)
+  - Jointly hosted by LibreOfficeKaigi and MiniDebianConfJapan.
+  - Provide sushi, nabemono, beer and meals.
+  - Provide soft drink.
+  - We welcome to BYOB.
+  - The charge as below.
+    - general 2,000 Yen.
+    - student 1,000 Yen.
 
 <a name="place"></a>
 
@@ -78,6 +94,8 @@ Please contact us through the following channels.
 
 - email: debian-users AT debian.or.jp (replace AT to atmark)
   - notice: This email address is public mailing list.
+- email: miniconf2016 AT debian.or.jp (replace AT to atmark)
+  - notice: This email address is closed mailing list for Organizer. If you are sensitive content please use this email address.
 - <a href="https://twitter.com/debian_jp"><img style="width:20px; height:20px;" src="assets/img/Twitter_Logo_White_On_Blue.png" alt="Twitter - Debian JP">@debian_jp</a>
 
 
@@ -85,6 +103,12 @@ Please contact us through the following channels.
 
 ## History
 
+- 2016-11-11
+  - update Registration.
+  - start Registration.
+  - add a closed e-mail address to contact us.
+- 2016-11-04
+  - Extendes expiration date for one week.
 - 2016-10-18
  - Appends CFP application period.
  - Appends notice of contact.
