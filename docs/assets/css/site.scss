@@ -38,3 +38,44 @@ h2 {
     padding-bottom: .5em;
     border-bottom: 1px solid #ccc;
 }
+
+
+table {
+    border: 1px solid #000000;
+    max-width: 98%;
+}
+
+th {
+    border: 1px solid #000000;
+    background: #f5d0a9;
+    padding: 4px;
+}
+
+tr:nth-child(odd) {
+    background: #e6e6e6;
+}
+
+td {
+    border: 1px solid #000000;
+    padding: 4px;
+}
+
+@media screen and (max-width: 400px) {
+    table {
+        display:  block;
+        border: 1px solid #000000;
+        max-width: 98%;
+    }
+    tbody {
+    }
+    tr {
+        border-bottom: 1px solid #000000;
+    }
+    th {
+        display: none;
+    }
+    td {
+        display: block;
+        border: 0px solid #000000;
+    }
+}
